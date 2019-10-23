@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Мирон",
+        "surname": "Овчинников",
+        "gender": "male",
+        "region": "Russia"
+    },
+    {
+        "name": "Kristofer",
+        "surname": "Kuznetsov",
+        "gender": "male",
+        "region": "Estonia"
+    },
+    {
+        "name": "Aaron",
+        "surname": "Weber",
+        "gender": "male",
+        "region": "Germany"
+    },
+    {
+        "name": "Επειός",
+        "surname": "Γιαννόπουλος",
+        "gender": "male",
+        "region": "Greece"
+    },
+    {
+        "name": "Nezihe",
+        "surname": "Şahiner",
+        "gender": "female",
+        "region": "Turkey"
+    }
+]
